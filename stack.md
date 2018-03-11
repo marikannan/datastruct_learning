@@ -69,7 +69,7 @@ while ( we have not read entire string ) {
 
 
 ## Stack impelementation using C
-```
+``` c
 #include <stdio.h>
 #include <stdlib.h>
 
