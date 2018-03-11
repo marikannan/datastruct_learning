@@ -28,4 +28,8 @@ There are four basic rules for recursion,
       return( n * factorial(n-1));
   }
   ```
+  
+  ## Try it yourself
+  * Towers of Hanoi
+  * Binary Search
                                    
